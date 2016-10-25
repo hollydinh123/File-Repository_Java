@@ -9,15 +9,18 @@ CECS 343, Intro to Software Engineering, Section 05
 Project Part 3
 
 
+
 INTRODUCTION
 
 This is the third part of our VCS (Version Control System) project. In addition to the first and second parts' functions, this part consists of implementing a merge function. Gives the user the ability to merge two project trees.
+
 
 
 EXTERNAL REQUIREMENTS
 
 A Java IDE to run the program (i.e. Eclipse, drJava, Netbeans, etc.)
 Windows OS recommended.
+
 
 
 BUILD, INSTALLATION, AND SETUP
@@ -31,14 +34,17 @@ BUILD, INSTALLATION, AND SETUP
 7) Indicate the versions you would like to be merged.
 
 
+
 USAGE
 
 This program is used for creating a repository, checking in an updated project tree to an existing repository, checking out a specific project tree from the repository into a different target directory, and for merging two project trees. The repository will store files and let users know the time when they are created, updated, have files checked in, and checked out. 
 
 
+
 EXTRA FEATURES
 
 In our time stamps, we have the milliseconds of each time to have more specific times.
+
 
 
 BUGS
