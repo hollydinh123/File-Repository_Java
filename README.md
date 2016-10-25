@@ -1,9 +1,13 @@
 # Merged
 
 Holly Dinh (dinh.holly@gmail.com)
+
 Jordan Le (jordan.le.quang@gmail.com)
+
 CECS 343, Intro to Software Engineering, Section 05
+
 Project Part 3
+
 
 INTRODUCTION
 
